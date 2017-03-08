@@ -1,15 +1,9 @@
-﻿# bankobjects assignment
-Assignment where we learn how to use classes.
+﻿# account check web api
+Assignment where we use code from earlier projects and create a web api
 
-
-Tunnit: 15
+Tunnit:
 
 Opitut asiat:
-- Classes
-	- Properties
-	- Methods
-- LINQ
-- List< >
 
-Vaikeudet: Tilitapahtuman yhdistäminen oikeaan tiliin.
+Vaikeudet:
 
